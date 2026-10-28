@@ -4,7 +4,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y desarrollad
 Me gusta construir herramientas que uso a diario, sobre todo en Linux.
 
 🌐 **Portfolio:** [raafaanavrr69.github.io/Portfolio](https://raafaanavrr69.github.io/Portfolio/)
-💼 **LinkedIn:** [rafa-navarro](https://www.linkedin.com/in/rafa-navarro-a20432388/)
+💼 **LinkedIn:** [rafa-navarro-rosa](https://www.linkedin.com/in/rafa-navarro-rosa-a20432388/)
 🟢 Buscando prácticas
 
 ## Proyectos destacados
